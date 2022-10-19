@@ -3,5 +3,4 @@ The snake game has simple functions. It starts at the left top corner of the fra
 
 During building this game the most challenge was setting the start location of the snake and fixing the apples from appearing randomly on the top of body parts of a snake. But its been fixed and all is working perfectly.
 
-///////**i tried something new in this project thet if you hit the spacebar then the snake speed will increases**///////////////////
 
